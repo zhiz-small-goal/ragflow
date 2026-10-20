@@ -204,7 +204,7 @@
    git checkout v1.0.0-rc2
    ```
 
-   在启动 RAGFlow 服务及其依赖服务。
+   再启动 RAGFlow 服务及其依赖服务。
 
    ```bash
    docker compose -f docker-compose.yml up -d
